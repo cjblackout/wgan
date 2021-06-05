@@ -1,2 +1,2 @@
 # wgan
-Implementation of Wasserstein GAN
+Implementation of Wasserstein GAN on MNIST
